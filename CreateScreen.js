@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react";
 import { View, Text, StyleSheet, TextInput, Button } from "react-native";
 import ListContext from "../context/ListContext";
 
-const CreateScreen = ({ navigation }) => {
+
 	const todoItems = useContext(ListContext);
 
 	const [title, setTitle] = useState("");
