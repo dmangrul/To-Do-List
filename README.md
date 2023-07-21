@@ -1,1 +1,2 @@
 # To-Do-List
+This application is a React Native project: a fully functioning program that can add and delete items for a to-do list by implementing Context and Reducer from React. This program displays to-do list data onto an interactive mobile application on the Expo Go application on iOS in which the user could manipulate list values and add descriptions for each item. This project contains different languages, functions, and frameworks such as JavaScript, React Native, Context, State, and Reducer.
